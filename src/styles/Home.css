@@ -1,0 +1,12 @@
+.home-title {
+    text-align: center;
+    padding: 3% 0;
+}
+
+.cards-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+    ;
+    gap: 25px;
+}
